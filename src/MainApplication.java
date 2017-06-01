@@ -60,7 +60,7 @@ class MainApplication {
         else if(Objects.equals(opt, "3")){
             System.out.println("The current key setting is: "+setting);
         }
-        else if(Objects.equals(opt, "5")){
+        else if(Objects.equals(opt, "4")){
             System.exit(0);
         }
         else{
